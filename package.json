@@ -1,7 +1,7 @@
 {
     "name": "Iluphany-Launcher",
     "preductname": "Iluphany Launcher",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Launcher dedicado a los eventos de Iluphany Studio",
     "main": "src/app.js",
     "author": {
